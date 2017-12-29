@@ -1,0 +1,20 @@
+{
+  "name": "jsfile-utils",
+  "version": "1.0.0",
+  "description": "a library of functions for getting information for files",
+  "main": "index.js",
+  "scripts": {
+    "test": "jsutils"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericsuhn/jsfile-utils.git"
+  },
+  "author": "Eric Suarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericsuhn/jsfile-utils/issues"
+  },
+  "homepage": "https://github.com/ericsuhn/jsfile-utils#readme",
+  "keywords": []
+}
