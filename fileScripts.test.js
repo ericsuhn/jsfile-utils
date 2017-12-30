@@ -1,10 +1,6 @@
 var assert = require('assert');
 var extract = require('./fileScripts.js');
 
-test('file size of an empty string should be 0', () => {
-  expect(extract.getFileSize('')).toBe(0);
-});
-
 test('file size of an string.txt should be 43', () => {
   expect(extract.getFileSize('string.txt')).toBe(43);
 });
