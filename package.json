@@ -4,6 +4,7 @@
   "description": "a library of functions for getting information for files",
   "main": "index.js",
   "scripts": {
+    "start": "main",
     "test": "jsutils"
   },
   "repository": {
