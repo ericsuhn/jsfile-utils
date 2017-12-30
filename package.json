@@ -12,6 +12,11 @@
   },
   "author": "Eric Suarez",
   "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "path": "^0.12.7",
+    "commander": "^2.12.1"
+  },
   "bugs": {
     "url": "https://github.com/ericsuhn/jsfile-utils/issues"
   },
