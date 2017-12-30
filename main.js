@@ -1,6 +1,4 @@
-var express = require('express');
 var extract = require('./fileScripts');
-var app = express();
 
 var fileSize = extract.getFileSize('string.txt');
 var fileName = extract.getFileNameWithNoPath('string.txt');

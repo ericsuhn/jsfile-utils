@@ -15,8 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.2",
-    "path": "^0.12.7",
-    "commander": "^2.12.1"
+    "path": "^0.12.7"
   },
   "bugs": {
     "url": "https://github.com/ericsuhn/jsfile-utils/issues"
