@@ -5,8 +5,12 @@ test('file size of an empty string should be 0', () => {
   expect(extract.getFileSize('')).toBe(0);
 });
 
+test('file size of an string.txt should be 43', () => {
+  expect(extract.getFileSize('string.txt')).toBe(43);
+});
+
 test('file name with no path of "./abc/123/hello" should be "hello" ', () => {
-  expect(extract.getFileNameWithNoPath('./abc/123/hello')).toBe('hello');
+  expect(extract.getFileNameWithNoPath('./abc/123/hello.txt')).toBe('hello.txt');
 });
 
 test('md5 of the file string.txt should match" ', () => {
