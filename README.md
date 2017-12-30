@@ -30,7 +30,7 @@ $git npm install
 ```
 
 ## Example
-Here are examples of how the functions can be called, to get file data.
+Here are examples of how the functions can be called, to get file data. The following example can be seen in the index.js file, by running the file in debugger mode (In Visual Studio Code for example).
 
 ```js
 var fileScripts = require('./fileScripts');
