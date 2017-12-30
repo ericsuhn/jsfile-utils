@@ -1,4 +1,4 @@
-# jsfile-utils <img src="https://travis-ci.org/ericsuhn/js.svg?branch=master">
+# jsfile-utils <img src="https://travis-ci.org/ericsuhn/jsfile-utils.svg?branch=master">
 
 An open source Node.js library that makes it easy to get various pieces of info about a given file on disk. This library brings together various existing tools, to create a convinient all-in-one file utility library.
 
