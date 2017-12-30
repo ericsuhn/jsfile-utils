@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "main",
-    "test": "jsutils"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
     "url": "https://github.com/ericsuhn/jsfile-utils/issues"
   },
   "homepage": "https://github.com/ericsuhn/jsfile-utils#readme",
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {
+    "jest": "^22.0.4"
+  }
 }
