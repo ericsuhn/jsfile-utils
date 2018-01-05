@@ -29,6 +29,12 @@ and install dependencies
 $git npm install
 ```
 
+To use this library in your projects, add the following code to your file.
+
+```js
+var fileScripts = require('./fileScripts');
+```
+
 ## Example
 Here are examples of how the functions can be called, to get file data. The following example can be seen in the index.js file, by running the file in debugger mode (In Visual Studio Code for example).
 
